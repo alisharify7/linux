@@ -2,7 +2,7 @@
 #
 # Configuration for initramfs
 #
-
+#
 config INITRAMFS_SOURCE
 	string "Initramfs source file(s)"
 	default ""
